@@ -7,7 +7,7 @@ This repository contains an n8n workflow that automatically processes files uplo
 ## Workflow Overview
 
 <img src="image.png" alt="RAG Workflow Diagram" width="600"/>
-
+<img src="image.png" alt="RAG Workflow Diagram" width="600"/>
 The workflow performs the following steps:
 
 1. **Google Drive Trigger**  
